@@ -5,3 +5,20 @@ class Dog {
     this.breed=breed;
   }
 }
+
+
+class Dog {
+  constructor (name,breed){
+    this.name=name;
+    this.breed=breed;
+  }
+}
+
+
+
+class Dog {
+  constructor (name,breed){
+    this.name=name;
+    this.breed=breed;
+  }
+}
