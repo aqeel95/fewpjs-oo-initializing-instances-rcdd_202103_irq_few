@@ -1,2 +1,4 @@
 // Write your code here
-class Dog {}
+class Dog {
+  constructor()
+}
