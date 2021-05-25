@@ -8,8 +8,8 @@ class Breakfast {
 
 
 class Lunch {
-  constructor (name,breed){
-    this.name=name;
+  constructor (salad,breed){
+    this.salad=salad;
     this.breed=breed;
   }
 }
