@@ -25,4 +25,3 @@ class Dinner {
     this.dessert=dessert;
   }
   }
-}
