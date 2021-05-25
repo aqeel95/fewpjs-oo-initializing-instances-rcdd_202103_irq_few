@@ -1,5 +1,5 @@
 // Write your code here
-class Dog {
+class Breakfast {
   constructor (name,breed){
     this.name=name;
     this.breed=breed;
