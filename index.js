@@ -16,7 +16,7 @@ class Lunch {
 
 
 
-class Dog {
+class Dinner {
   constructor (name,breed){
     this.name=name;
     this.breed=breed;
